@@ -8,7 +8,7 @@
 -Data Analysis, Business process analysis, Data visualization, Database querying, Financial analysis, Project Management
 
 ### Education
-Business Analytics, Post-Graduade Certificate (2023)
+Business Analytics, Post-Graduade Certificate (2023) /
 -Seneca Polytechnic College, Toronto, ON, Canada
 -GPA: 4.0/4.0 President's Honour List
 
