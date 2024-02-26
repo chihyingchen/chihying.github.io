@@ -5,10 +5,12 @@
 
 ## Education
 **Business Analytics, Postgraduate Certification**
-- Seneca College, Canada (2023) GPA: 4.0/4.0
+- Seneca College, Canada (2023)
+- GPA: 4.0/4.0
   
 **International Business Management, Bachelor's Degree**
-- Ecole Hoteliere de Lausanne, Switzerland (2015-2019) GPA: 3.7/4.0
+- Ecole Hoteliere de Lausanne, Switzerland (2015-2019)
+- GPA: 3.7/4.0
 
 ## Work Experience
 **Business Analyst @ TAITRA Global-Taiwan External Trade Council (Sep 2022 - Dec 2022)**
