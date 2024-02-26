@@ -1,20 +1,18 @@
 # chihying.github.io
 ### Data Analyst Portfolio
-#### Technical Skills
--SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), SAS (Data Mining, A/B Testing)
-#### Tools
--Tableau, PowerBI , MS Excel, MS PowerPoint, MS Visio, MS Access, Jira, Azure, IBM Cognos
+#### Technical Skills: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), SAS (Data Mining, A/B Testing)
+#### Tools: Tableau, PowerBI , MS Excel, MS PowerPoint, MS Visio, MS Access, Jira, Azure, IBM Cognos
 #### Experience
 -Data Analysis, Business process analysis, Data visualization, Database querying, Financial analysis, Project Management
 
 ### Education
-Business Analytics, Post-Graduade Certificate (2023) /
--Seneca Polytechnic College, Toronto, ON, Canada
--GPA: 4.0/4.0 President's Honour List
+#### Business Analytics, Post-Graduade Certificate (2023) 
+•Seneca Polytechnic College, Toronto, ON, Canada
+•GPA: 4.0/4.0 President's Honour List
 
-International Business Management, Bachelor's Degree (2015-2019)
--Ecole Hoteliere de Lausanne, Lausanne, Switzerland
--GPA: 3.6/4.0
+#### International Business Management, Bachelor's Degree (2015-2019)
+•Ecole Hoteliere de Lausanne, Lausanne, Switzerland
+•GPA: 3.6/4.0
 
 
 ### Work Experience
