@@ -16,13 +16,13 @@ International Business Management, Bachelor's Degree (2015-2019)
 
 
 ### Work Experience
-# Business Analyst @TAITRA Global-Taiwan External Trade Council
+#### Business Analyst @TAITRA Global-Taiwan External Trade Council
 • Collaborated across multi-industries teams, translating complex client requirements into actionable insights, meeting deliverable deadlines consistently
 • Utilized business intelligence tool PowerBI for data manipulation and visualization, contributing to supplier management analysis and achieving 25+ exhibition targets
 • Initiated process improvement, reducing departmental workload by 30%, while actively introducing innovative practices to enhance team performance
 • Maintained strong customer relationship with efficient communication and high-quality works
 
-# Assistant Account Manager @Rayprus Technologies Ltd., Foxconn
+#### Assistant Account Manager @Rayprus Technologies Ltd., Foxconn
 • Managed projects of mobile and tablets’ camera with international customers and strengthened key account partnerships ($5M/yr) by providing excellent product and technical support, resulting in a YoY account revenue growth by 35%
 • Analyzed data from key parts procurement, tooling expenses, and patent maintenance spending history using Excel
 Pivot Tables, and provided applicable recommendations and agile solutions to account managers and R&D director to review ROI and identify cost-saving opportunities
