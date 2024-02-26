@@ -1,8 +1,11 @@
 # chihying.github.io
-###Data Analyst Portfolio
-Technical Skills: SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), SAS (Data Mining, A/B Testing)
-Tools: Tableau, PowerBI , MS Excel, MS PowerPoint, MS Visio, MS Access, Jira, Azure, IBM Cognos
-Experience on: Data Analysis, Business process analysis, Data visualization, Database querying, Financial analysis, Project Management
+### Data Analyst Portfolio
+#### Technical Skills
+-SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), SAS (Data Mining, A/B Testing)
+#### Tools
+-Tableau, PowerBI , MS Excel, MS PowerPoint, MS Visio, MS Access, Jira, Azure, IBM Cognos
+#### Experience
+-Data Analysis, Business process analysis, Data visualization, Database querying, Financial analysis, Project Management
 
 ### Education
 Business Analytics, Post-Graduade Certificate (2023)
