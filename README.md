@@ -4,7 +4,7 @@
 ### Tools: Tableau, PowerBI , MS Excel, MS PowerPoint, MS Visio, MS Access, Jira, Azure, IBM Cognos
 
 ## Education
-- Business Analytics, Postgraduate Certification | Seneca College, Canada (2023) GPA: 4.0/4.0
+- Business Analytics, Postgraduate Certification | Seneca College, Canada (2023) GPA: 4.0/4.0 
 - International Business Management, Bachelor's Degree | Ecole Hoteliere de Lausanne, Switzerland (2015-2019) GPA: 3.7/4.0
 
 ## Work Experience
