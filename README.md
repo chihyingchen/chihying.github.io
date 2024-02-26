@@ -30,13 +30,13 @@ Pivot Tables, and provided applicable recommendations and agile solutions to acc
 • Developed predictive models to prevent supply shortage during COVID-19, averting potential revenue loss of over $1M.
 • Effectively coordinated with R&D team of 35 to meet up estimated project timeline and product quality while maintaining employee engagement
 
-# Guest Relation Officer @The Grandview Resort Beitou 
+#### Guest Relation Officer @The Grandview Resort Beitou 
 • Delivered exceptional customer service and streamlined group event coordination, ensuring high guest satisfaction up
 to 98% with excellent communication skills and interpersonal skills
 • Collaborated extensively with diverse team, demonstrating adaptability in responding to dynamic guest needs and
 ensuring a consistently enjoyable experience
 
-# Finance Controller Intern @Mandarin Oriental Hotel Group
+#### Finance Controller Intern @Mandarin Oriental Hotel Group
 • Crafted customized Tableau dashboards providing insights into CAPEX plans and revenue tracking, contributing to informed decision making and financial analysis
 • Assisted in presentation materials of monthly financial meeting and handled cash flow checking of F&B outlets
 
